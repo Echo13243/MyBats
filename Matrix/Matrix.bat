@@ -1,7 +1,7 @@
 title Hackerman
 :1
 
-type Hack.txt
+type Matrixtxt.txt
 
 goto 1
 
