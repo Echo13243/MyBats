@@ -1,0 +1,36 @@
+Storyline
+The game allows room for decisions, but the end is always going to be the same unless it ends early for whatever reason.
+
+You wake up in a stone room with a single torch, a hallway through an arch in the wall, and, across from that, a nightstand with two
+drawers.
+
+Can look inside the drawers[1] or leave with the torch[2].
+[1] Obtain a map in the top drawer and a crowbar in the other. Can look around[11] or leave[12] or look at map[13].
+[11] Find a hole in the wall where a stone should be. Can reach in[111] or leave[112].
+[111] Reach in and feel a button. Can push button[1111] or pull hand out[1112].
+[1111E] Push the button and the walls begin to push in. Can accept your fate[11111] or make a dash for the hallway[11112].
+[11111E] Accept your fate and wait for the walls to close in. A voice then booms, "You have failed miserably! END THE TEST!" Before you
+can say anything, everything goes black. END
+[11112E] Run for the hallway and before the walls finally close, leap and make it out without a scratch. Can keep running away[111121] or
+look back[111122].
+[111121E] Keep running until the wall blocks the path, the walls in this hallway begin closing in suddenly. Can accept your fate[1111211]
+or run back to the room hoping for a miracle[1111212].
+[1111211E] Accept your fate and wait for the walls to close in. A voice then booms, "You have failed miserably! END THE TEST!" Before you
+can say anything, everything goes black. END
+[1111212E] Run back to the room hoping the walls have opened, but, when you get there, they aren't. Can make a horrible attempt to escape
+by climbing the walls[11112121] or accepting your fate[11112122].
+[11112121E] Attempt to use the closing in walls to get to the ceiling. A voice then booms, "You have failed miserably! END THE TEST!" 
+Before you can say anything, everything goes black. END
+[11112122E] Accept your fate and wait for the walls to close in. A voice then booms, "You have failed miserably! END THE TEST!" Before you
+can say anything, everything goes black. END
+[111122E] You look back and see a pixelated seam between the two smushed walls. Can investigate[1111221] or run all the way to the end of
+the hallway[1111222].
+[1111221E] You go to touch it and it feels smooth. A voice then booms, "What are you doing? You have failed! END THE TEST!" Before you can
+say anything, everything goes black. END
+[1111222E] Run back to the room hoping the walls have opened, but, when you get there, they aren't. Can make a horrible attempt to escape
+by climbing the walls[11112221] or accepting your fate[11112222].
+[11112221E] Attempt to use the closing in walls to get to the ceiling. A voice then booms, "You have failed miserably! END THE TEST!" 
+Before you can say anything, everything goes black. END
+[11112222E] Accept your fate and wait for the walls to close in. A voice then booms, "You have failed miserably! END THE TEST!" Before you
+can say anything, everything goes black. END
+[2] Grab the torch and enter the hallway and hits a dead end. Can look around[21] or go back[22].
