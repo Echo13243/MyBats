@@ -8,6 +8,7 @@ Runs Matrix.bat but will open itself up constantly preventing manual shutdown of
 Dropped my school comp in a minute >:D (School computers are pretty bad)
 
 You'll need to right-click the file and press edit before you can use it. There'll be further explanation in the program.
+You can also make it work faster, more explantion in the program.
 
 Can be used for trolling others or when you're bored, don't credit me though. Only thing I don't want credit for.
 
