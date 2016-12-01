@@ -1,1 +1,3 @@
 # RAMkiller
+
+##DO NOT RUN WITHOUT PRECAUTION
