@@ -1,5 +1,5 @@
 @echo off
-title Matrix
+title Hands up!
 color 0a
 :1
 
